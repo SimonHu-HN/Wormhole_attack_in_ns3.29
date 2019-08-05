@@ -7,14 +7,14 @@
  *             n1 <------------> n2 
  *            /                    \
  *           /                      \
- *          n0                       n6
+ *          n0                       n3
  *           \                      / 
  *            \                    /
  *             n4 -------------- n5
  *            
  * Each node is in the range of its immediate adjacent.
  * Source Node: n0
- * Destination Node: n6
+ * Destination Node: n3
  * Worm Tunnel: Between nodes n1 and n2
  * 
  * Output of this file:
