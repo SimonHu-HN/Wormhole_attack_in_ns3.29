@@ -1,7 +1,7 @@
 # Wormhole_attack_in_ns3.29
 Just modifying some existing NS3 projects(executed on 3.24 ver. or something else) to apply to the latest version. Meanwhile, rewrite the README.md for the beginners can easily run and learn the NS3 and wormhole attack.
 
-1. You should change the source file(aodv-routing-protocol.cc and aodv-routing-protocol.h) which are located in ns3.29/src/aodv/model  
+1. You should change the source files (aodv-routing-protocol.cc and aodv-routing-protocol.h) which are located in ns3.29/src/aodv/model  
 
 2. Quick start: dragging the with_attack.cc, without_attack.cc, and wormhole2.cc into the scratch folder.
 
